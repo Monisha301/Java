@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;strings&apos; to &apos;java_strings&apos;&#x0A;- Original project: &apos;Basics&apos;&#x0A;- Original element: &apos;Basics/src/strings&apos;&#x0A;- Renamed element: &apos;Basics/src/java_strings&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;strings&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;strings" name="java_strings" qualified="false" references="true" stamp="1725823334885" textual="false" version="1.0"/>
+</session>

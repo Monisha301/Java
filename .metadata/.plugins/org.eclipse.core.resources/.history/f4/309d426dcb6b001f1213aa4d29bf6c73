@@ -1,0 +1,18 @@
+
+public class printVariables {
+	public static void main(String args[]) {
+		String name = "John";
+		System.out.println("Hello " + name);
+		
+		
+		
+		String firstName="Monisha ";
+		String lastName="Baranidharan";
+		System.out.println( firstName + lastName);
+
+
+		
+
+	}
+
+}

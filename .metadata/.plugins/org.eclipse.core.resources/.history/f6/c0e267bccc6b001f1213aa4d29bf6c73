@@ -1,0 +1,10 @@
+
+public class multipleVariables 
+{
+	public static void Main(String args[])
+	{
+		int x=2,y=3,z=4;
+		System.out.println(x+y+z);
+	}
+
+}
